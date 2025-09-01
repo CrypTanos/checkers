@@ -1,0 +1,5 @@
+out/
+*.csv
+*.xlsx
+.DS_Store
+Thumbs.db
